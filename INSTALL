@@ -1,0 +1,3 @@
+To compile game just type 'make' in source directory.
+Run 'clife' file to play the game.
+Universe is set to must widely used default terminal settings (21 lines). You set first generation by their coordinates.

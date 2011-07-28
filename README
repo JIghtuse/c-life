@@ -1,3 +1,7 @@
 This small project is a simple C implementation of Conway's Game of Life.
 Created by JIghtuse <jightuse@gmail.com> from package "zivot" on Fortran.
 12.07.2011
+
+RUNNING
+Run 'clife' file to play the game.
+Universe is set to your terminal size. You set first generation by coordinates.

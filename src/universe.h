@@ -8,7 +8,9 @@
 
 typedef unsigned short int *cell;
 
-void init_universe(cell c);
+void clear_universe(cell c);
+void keyboard_init(cell c);
+void mouse_init(cell c);
 void rand_universe(cell c);
 void update_universe(cell c, cell newc);
 void print_universe(cell c);

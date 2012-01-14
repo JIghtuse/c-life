@@ -27,7 +27,7 @@ endif
 all: $(APP)
 
 clean:
-	rm -rf $(BIN_DIR)/* $(OBJECTS) $(DEPENDENCIES)
+	rm -rf $(BIN_DIR)/$(APP) $(OBJECTS) $(DEPENDENCIES)
 
 $(APP): $(OBJECTS)
 	$(CC) $(CFLAGS) $^ -o $(BIN_DIR)/$@

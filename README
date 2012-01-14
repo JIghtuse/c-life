@@ -1,6 +1,6 @@
 Simple C and ncurses implementation of Conway's Game of Life.
-Created by JIghtuse <jightuse@gmail.com> from package "zivot" on Fortran.
 
 RUNNING
-Run 'clife' file to play the game.
-Universe is set to your terminal size. You set first generation by coordinates.
+Run 'clife' from bin directory to run life.
+Universe is set to your terminal size.
+First generation set randomly, by mouse or by keyboard.

@@ -1,2 +1,2 @@
 To compile game just type 'make' in source directory.
-Run 'clife' file to play the game.
+Please note you must have ncurses-dev package at your dustribution.
